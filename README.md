@@ -24,6 +24,7 @@ The dataset contains:
 - **Metadata**: A CSV file (`styles.csv`) with product attributes.
 
 Download the dataset from [Kaggle](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset).
+
 Download MyCodeNotebook from [Kaggle](https://www.kaggle.com/code/preetpatelrk3011/codemonk-assignment-nb/edit).
 
 ## Requirements
