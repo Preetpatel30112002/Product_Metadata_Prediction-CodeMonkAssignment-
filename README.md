@@ -32,7 +32,7 @@ To run this project, you need the following:
 
 ## Repository Structure
 
-![image](https://github.com/user-attachments/assets/a69710e9-ce8b-4791-a9cc-4303fbceb383)
+![image](https://github.com/user-attachments/assets/820b1a05-ff97-4e70-b1c0-875bb86a60ad)
 
 ## Set Up
 Clone this repository:
