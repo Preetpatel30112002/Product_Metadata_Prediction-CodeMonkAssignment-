@@ -37,3 +37,13 @@ To run this project, you need the following:
 Install the required libraries using:
 ```bash
 pip install -r requirements.txt
+
+## Set
+Clone this repository:
+- git clone https://github.com/your-username/fashion-product-prediction.git
+- cd fashion-product-prediction
+
+Download the dataset and place it in the data/ folder.
+
+Install the required libraries:
+pip install -r requirements.txt
