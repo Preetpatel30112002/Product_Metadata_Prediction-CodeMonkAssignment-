@@ -7,11 +7,7 @@ This project involves training a deep learning model to predict the attributes o
 2. [Dataset](#dataset)
 3. [Requirements](#requirements)
 4. [Setup](#setup)
-5. [Training the Model](#training-the-model)
-6. [Deployment](#deployment)
-7. [Results](#results)
-8. [Repository Structure](#repository-structure)
-9. [License](#license)
+5. [Repository Structure](#repository-structure)
 
 ## Project Overview
 The goal of this project is to build a deep learning model that can predict the following attributes of a fashion product:
@@ -34,16 +30,8 @@ To run this project, you need the following:
 - Python 3.8 or higher
 - Libraries listed in `requirements.txt`
 
-Install the required libraries using:
-```bash
-pip install -r requirements.txt
-
-## Set
+## Set Up
 Clone this repository:
-- git clone https://github.com/your-username/fashion-product-prediction.git
-- cd fashion-product-prediction
-
-Download the dataset and place it in the data/ folder.
-
-Install the required libraries:
-pip install -r requirements.txt
+```bash
+git clone https://github.com/your-username/fashion-product-prediction.git
+cd fashion-product-prediction
