@@ -32,20 +32,7 @@ To run this project, you need the following:
 
 ## Repository Structure
 
-CodeMonk_Assignment/
-├── data/
-│   ├── images/                  
-│   └── styles.csv               
-├── notebooks/
-│   └── codemonk-assignment-nb.ipynb  
-├── models/
-│   ├── fashion_cnn_model_tensorflow.h5
-│   └── label_encoders.pkl     
-├── apiserver_and_application/
-│   ├── Flask_server.py  
-│   └── label_encoders.pkl
-├── requirements.txt
-└── README.md                   
+![image](https://github.com/user-attachments/assets/a69710e9-ce8b-4791-a9cc-4303fbceb383)
 
 ## Set Up
 Clone this repository:
