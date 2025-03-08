@@ -1,5 +1,3 @@
-# Product_Metadata_Prediction-CodeMonkAssignment-
-
 # Fashion Product Attribute Prediction
 
 This project involves training a deep learning model to predict the attributes of fashion products, such as color, type, season, and gender, based on product images. The model is deployed using Flask and Streamlit for easy interaction.
