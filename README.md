@@ -39,7 +39,7 @@ To run this project, you need the following:
 ## Set Up
 Clone this repository:
 ```bash
-git clone https://github.com/Preetpatel30112002/Product_Metadata_Prediction-CodeMonkAssignment.git
+git clone https://github.com/Preetpatel30112002/Product_Metadata_Prediction-CodeMonkAssignment-.git
 cd Product_Metadata_Prediction-CodeMonkAssignment
 
 
