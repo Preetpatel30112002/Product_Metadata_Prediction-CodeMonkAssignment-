@@ -39,5 +39,9 @@ Clone this repository:
 ```bash
 git clone https://github.com/Preetpatel30112002/Product_Metadata_Prediction-CodeMonkAssignment.git
 cd Product_Metadata_Prediction-CodeMonkAssignment
+Download the dataset and place it in the data/ folder.
+
+Install the required libraries:
+pip install -r requirements.txt
 
 
