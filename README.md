@@ -34,22 +34,8 @@ To run this project, you need the following:
 
 ## Repository Structure
 
-Product_Metadata_Prediction-CodeMonkAssignment-/
-├── notebooks/
-│   └── codemork-assignment-nb.ipynb 
-├── models/
-│   ├── fashion_cnn_model_tensorflow.h5  
-│   └── label_encoders.pkl  
-├── apiserver_and_application/
-│   ├── Streamlit_app.py 
-│   └── flask_server.py  
-├── sampletest/
-│   ├── sample1.webp
-│   └── sample2.webp
-│   ├── sample3.webp
-├── requirements.txt            
-└── README.md   
-
+![image](https://github.com/user-attachments/assets/7f38bb5f-29f1-4970-95e1-5a54505e15aa)
+  
 ## Set Up
 Clone this repository:
 ```bash
